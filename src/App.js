@@ -1,7 +1,6 @@
 import { collection, getDocs } from '@firebase/firestore';
 import React, { useEffect, useState} from 'react';
 import {app , storage, db} from './base'
-import { NewAlbumForm } from './NewAlbumForm';
 import { UploadPhoto } from './UploadPhoto';
 
 function App() {
@@ -40,9 +39,6 @@ function App() {
       </section>
 
       <footer>
-        <NewAlbumForm>
-          
-        </NewAlbumForm>
         <UploadPhoto>
 
         </UploadPhoto>
