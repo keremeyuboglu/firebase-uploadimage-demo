@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Master branch contains a sorry solution with a cloud function, not integrated to the frontend, also function is deleted at the moment, but the logic is there.
+Other branch has a solution without a backend.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
