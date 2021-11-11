@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Info
 
 Master branch contains a sorry solution with a cloud function, not integrated to the frontend, also function is deleted at the moment, but the logic is there.
 Other branch has a solution without a backend.
